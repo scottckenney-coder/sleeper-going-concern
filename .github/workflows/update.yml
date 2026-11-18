@@ -1,6 +1,10 @@
 name: Update Sleeper dashboard
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - update.py
   schedule:
     # Hourly at :17 UTC during NFL season (September through January).
     # GitHub scheduled runs are best-effort and may be delayed.
