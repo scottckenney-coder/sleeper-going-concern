@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-18T13:43:38+00:00",
+  "updated_at_utc": "2026-11-18T21:55:28+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -172,7 +172,7 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAX",
-        "status": "Active"
+        "status": "Questionable"
       },
       {
         "id": "4217",
@@ -186,7 +186,7 @@
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "status": "Active"
+        "status": "Questionable"
       },
       {
         "id": "11635",
@@ -298,7 +298,7 @@
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "status": "Active"
+        "status": "Questionable"
       },
       {
         "id": "13424",
@@ -326,7 +326,7 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAX",
-        "status": "Active"
+        "status": "Questionable"
       },
       {
         "id": "6801",
@@ -386,13 +386,6 @@
       "name": "ATL",
       "position": "DEF",
       "team": "ATL",
-      "status": ""
-    },
-    {
-      "id": "BUF",
-      "name": "BUF",
-      "position": "DEF",
-      "team": "BUF",
       "status": ""
     },
     {
@@ -484,6 +477,13 @@
       "name": "PHI",
       "position": "DEF",
       "team": "PHI",
+      "status": ""
+    },
+    {
+      "id": "SF",
+      "name": "SF",
+      "position": "DEF",
+      "team": "SF",
       "status": ""
     },
     {
@@ -592,13 +592,6 @@
       "status": "Active"
     },
     {
-      "id": "12015",
-      "name": "Harrison Mevis",
-      "position": "K",
-      "team": "BAL",
-      "status": "Active"
-    },
-    {
       "id": "4195",
       "name": "Jake Elliott",
       "position": "K",
@@ -648,13 +641,6 @@
       "status": "Active"
     },
     {
-      "id": "12548",
-      "name": "Lenny Krieg",
-      "position": "K",
-      "team": "GB",
-      "status": "Active"
-    },
-    {
       "id": "7922",
       "name": "Riley Patterson",
       "position": "K",
@@ -687,13 +673,6 @@
       "name": "Aaron Bailey",
       "position": "QB",
       "team": "BAL",
-      "status": "Active"
-    },
-    {
-      "id": "11065",
-      "name": "Adrian Martinez",
-      "position": "QB",
-      "team": "SEA",
       "status": "Active"
     },
     {
@@ -1387,7 +1366,7 @@
       "name": "Adam Randall",
       "position": "RB",
       "team": "BAL",
-      "status": "IR"
+      "status": "Active"
     },
     {
       "id": "7093",
@@ -1691,13 +1670,6 @@
       "status": "Active"
     },
     {
-      "id": "10223",
-      "name": "Eric Gray",
-      "position": "RB",
-      "team": "NYG",
-      "status": "Active"
-    },
-    {
       "id": "9220",
       "name": "Evan Hull",
       "position": "RB",
@@ -1775,13 +1747,6 @@
       "status": "Active"
     },
     {
-      "id": "6806",
-      "name": "J.K. Dobbins",
-      "position": "RB",
-      "team": "DEN",
-      "status": "Active"
-    },
-    {
       "id": "12356",
       "name": "Jabari Small",
       "position": "RB",
@@ -1856,7 +1821,7 @@
       "name": "Jaydn Ott",
       "position": "RB",
       "team": "KC",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12457",
@@ -2010,7 +1975,7 @@
       "name": "Kyle Monangai",
       "position": "RB",
       "team": "CHI",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12969",
@@ -2024,7 +1989,7 @@
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "9510",
@@ -2143,7 +2108,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "7204",
@@ -2227,7 +2192,7 @@
       "name": "Sione Vaki",
       "position": "RB",
       "team": "DET",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "12543",
@@ -2311,7 +2276,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "8208",
@@ -2451,7 +2416,7 @@
       "name": "Brevin Jordan",
       "position": "TE",
       "team": "HOU",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "11593",
@@ -2521,13 +2486,6 @@
       "name": "Cameron Latu",
       "position": "TE",
       "team": "NE",
-      "status": "Active"
-    },
-    {
-      "id": "13580",
-      "name": "Carsen Ryan",
-      "position": "TE",
-      "team": "CLE",
       "status": "Active"
     },
     {
@@ -3550,7 +3508,7 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "11381",
@@ -3599,7 +3557,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "4490",
@@ -3826,13 +3784,6 @@
       "status": "Active"
     },
     {
-      "id": "11748",
-      "name": "Bub Means",
-      "position": "WR",
-      "team": "KC",
-      "status": "Active"
-    },
-    {
       "id": "13270",
       "name": "CJ Daniels",
       "position": "WR",
@@ -3851,7 +3802,7 @@
       "name": "Caleb Douglas",
       "position": "WR",
       "team": "MIA",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "5223",
@@ -4071,10 +4022,24 @@
       "status": "Active"
     },
     {
+      "id": "7612",
+      "name": "Dee Eskridge",
+      "position": "WR",
+      "team": "MIN",
+      "status": "Active"
+    },
+    {
       "id": "13333",
       "name": "Deion Burks",
       "position": "WR",
       "team": "IND",
+      "status": "Active"
+    },
+    {
+      "id": "3286",
+      "name": "Demarcus Robinson",
+      "position": "WR",
+      "team": "SF",
       "status": "Active"
     },
     {
@@ -4306,7 +4271,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "13770",
@@ -4355,13 +4320,6 @@
       "name": "Jacob Cowing",
       "position": "WR",
       "team": "SF",
-      "status": "Active"
-    },
-    {
-      "id": "13904",
-      "name": "Jacob De Jesus",
-      "position": "WR",
-      "team": "KC",
       "status": "Active"
     },
     {
@@ -4460,13 +4418,6 @@
       "name": "Jamari Thrash",
       "position": "WR",
       "team": "TEN",
-      "status": "Active"
-    },
-    {
-      "id": "6957",
-      "name": "James Proche II",
-      "position": "WR",
-      "team": "ARI",
       "status": "Active"
     },
     {
@@ -4866,7 +4817,7 @@
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "team": "HOU",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "9494",
@@ -4887,7 +4838,7 @@
       "name": "Max Hurleman",
       "position": "WR",
       "team": "PIT",
-      "status": "Out"
+      "status": "Active"
     },
     {
       "id": "5917",
@@ -5027,6 +4978,13 @@
       "name": "Quentin Johnston",
       "position": "WR",
       "team": "LAC",
+      "status": "Active"
+    },
+    {
+      "id": "12907",
+      "name": "Quentin Skinner",
+      "position": "WR",
+      "team": "PHI",
       "status": "Active"
     },
     {
@@ -5335,7 +5293,7 @@
       "name": "Tyrell Shavers",
       "position": "WR",
       "team": "BUF",
-      "status": "PUP"
+      "status": "Active"
     },
     {
       "id": "13600",
@@ -5527,7 +5485,6 @@
     "3198",
     "3214",
     "3271",
-    "3286",
     "3294",
     "3321",
     "3451",
@@ -5567,6 +5524,7 @@
     "6797",
     "6801",
     "6804",
+    "6806",
     "6813",
     "6819",
     "7021",
@@ -5624,6 +5582,7 @@
     "9758",
     "9997",
     "BAL",
+    "BUF",
     "DET",
     "GB",
     "HOU",
@@ -5634,8 +5593,7 @@
     "MIN",
     "NYG",
     "PIT",
-    "SEA",
-    "SF"
+    "SEA"
   ],
   "recent_team_transactions": [],
   "league_teams": [
@@ -5901,7 +5859,7 @@
           "name": "Chris Rodriguez Jr.",
           "position": "RB",
           "team": "JAX",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "11539",
@@ -5929,7 +5887,7 @@
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "12533",
@@ -6265,7 +6223,7 @@
           "name": "Woody Marks",
           "position": "RB",
           "team": "HOU",
-          "status": "Doubtful"
+          "status": "Out"
         },
         {
           "id": "12519",
@@ -6545,7 +6503,7 @@
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "13424",
@@ -6573,7 +6531,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "6801",
@@ -6664,7 +6622,7 @@
           "name": "Darren Waller",
           "position": "TE",
           "team": "CAR",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "3214",
@@ -6762,7 +6720,7 @@
           "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "11610",
@@ -6926,17 +6884,17 @@
           "status": "Active"
         },
         {
-          "id": "3286",
-          "name": "Demarcus Robinson",
+          "id": "5872",
+          "name": "Deebo Samuel Sr.",
           "position": "WR",
           "team": "SF",
           "status": "Active"
         },
         {
-          "id": "5872",
-          "name": "Deebo Samuel Sr.",
-          "position": "WR",
-          "team": "SF",
+          "id": "6806",
+          "name": "J.K. Dobbins",
+          "position": "RB",
+          "team": "DEN",
           "status": "Active"
         },
         {
@@ -6975,10 +6933,10 @@
           "status": "Active"
         },
         {
-          "id": "SF",
-          "name": "SF",
+          "id": "BUF",
+          "name": "BUF",
           "position": "DEF",
-          "team": "SF",
+          "team": "BUF",
           "status": ""
         }
       ]
