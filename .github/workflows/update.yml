@@ -2,8 +2,9 @@ name: Update Sleeper dashboard
 on:
   workflow_dispatch:
   schedule:
-    # 07:00 and 17:00 Eastern Standard Time (12:00 and 22:00 UTC)
-    - cron: '0 12,22 * * *'
+    # Hourly at :17 UTC during NFL season (September through January).
+    # GitHub scheduled runs are best-effort and may be delayed.
+    - cron: '17 * * 9-12,1 *'
 permissions:
   contents: write
   pages: write
