@@ -72,7 +72,14 @@ result = {
     'team':{'name':(user.get('metadata') or {}).get('team_name') or user.get('display_name'), 'username':USERNAME,
             'roster_id':roster['roster_id'],'settings':roster.get('settings',{}), 'starters':starting,'bench':bench,'reserve':reserves,'taxi':taxi,'all_players':owned},
     'week':week, 'free_agents':free_agents, 'owned_player_ids':sorted(all_owned), 'recent_team_transactions':my_tx,
-    'league_teams':[{'roster_id':r['roster_id'],'owner_id':r.get('owner_id'),'waiver_position':(r.get('settings') or {}).get('waiver_position'), 'players':r.get('players',[])} for r in rosters]
+    'league_teams':[{
+      'roster_id':r['roster_id'],
+      'owner_id':r.get('owner_id'),
+      'name': next(((u.get('metadata') or {}).get('team_name') or u.get('display_name') or u.get('username')) for u in users if u.get('user_id') == r.get('owner_id')), 'Unknown'),
+      'record': {'wins':(r.get('settings') or {}).get('wins',0), 'losses':(r.get('settings') or {}).get('losses',0), 'ties':(r.get('settings') or {}).get('ties',0), 'points_for':round((r.get('settings') or {}).get('fpts',0) + (r.get('settings') or {}).get('fpts_decimal',0)/100,2)},
+      'waiver_position':(r.get('settings') or {}).get('waiver_position'),
+      'players':[info(pid) for pid in (r.get('players') or [])]
+    } for r in rosters]
 }
 (OUT/'data.json').write_text(json.dumps(result,indent=2),encoding='utf-8')
 print(f'Updated roster ID {roster["roster_id"]}: {len(owned)} players; {len(free_agents)} free agents')
