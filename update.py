@@ -75,7 +75,7 @@ result = {
     'league_teams':[{
       'roster_id':r['roster_id'],
       'owner_id':r.get('owner_id'),
-      'name': next(((u.get('metadata') or {}).get('team_name') or u.get('display_name') or u.get('username')) for u in users if u.get('user_id') == r.get('owner_id')), 'Unknown'),
+      'name': next((((u.get('metadata') or {}).get('team_name') or u.get('display_name') or u.get('username')) for u in users if u.get('user_id') == r.get('owner_id')), 'Unknown'),
       'record': {'wins':(r.get('settings') or {}).get('wins',0), 'losses':(r.get('settings') or {}).get('losses',0), 'ties':(r.get('settings') or {}).get('ties',0), 'points_for':round((r.get('settings') or {}).get('fpts',0) + (r.get('settings') or {}).get('fpts_decimal',0)/100,2)},
       'waiver_position':(r.get('settings') or {}).get('waiver_position'),
       'players':[info(pid) for pid in (r.get('players') or [])]
