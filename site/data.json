@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-19T03:25:50+00:00",
+  "updated_at_utc": "2026-11-19T13:02:35+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -396,13 +396,6 @@
       "status": ""
     },
     {
-      "id": "CHI",
-      "name": "CHI",
-      "position": "DEF",
-      "team": "CHI",
-      "status": ""
-    },
-    {
       "id": "CIN",
       "name": "CIN",
       "position": "DEF",
@@ -463,6 +456,13 @@
       "name": "NO",
       "position": "DEF",
       "team": "NO",
+      "status": ""
+    },
+    {
+      "id": "NYG",
+      "name": "NYG",
+      "position": "DEF",
+      "team": "NYG",
       "status": ""
     },
     {
@@ -589,6 +589,13 @@
       "name": "Eddy Pineiro",
       "position": "K",
       "team": "SF",
+      "status": "Active"
+    },
+    {
+      "id": "4227",
+      "name": "Harrison Butker",
+      "position": "K",
+      "team": "KC",
       "status": "Active"
     },
     {
@@ -1628,6 +1635,13 @@
       "status": "Active"
     },
     {
+      "id": "12469",
+      "name": "Dylan Sampson",
+      "position": "RB",
+      "team": "CLE",
+      "status": "Active"
+    },
+    {
       "id": "13778",
       "name": "EJ Smith",
       "position": "RB",
@@ -1968,13 +1982,6 @@
       "name": "Kimani Vidal",
       "position": "RB",
       "team": "LAC",
-      "status": "Active"
-    },
-    {
-      "id": "12534",
-      "name": "Kyle Monangai",
-      "position": "RB",
-      "team": "CHI",
       "status": "Active"
     },
     {
@@ -2517,13 +2524,6 @@
       "status": "Active"
     },
     {
-      "id": "8210",
-      "name": "Chig Okonkwo",
-      "position": "TE",
-      "team": "WAS",
-      "status": "Active"
-    },
-    {
       "id": "3048",
       "name": "Chris Manhertz",
       "position": "TE",
@@ -2599,6 +2599,13 @@
       "position": "TE",
       "team": "TB",
       "status": "Active"
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "CAR",
+      "status": "Questionable"
     },
     {
       "id": "12357",
@@ -5065,13 +5072,6 @@
       "status": "Active"
     },
     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "position": "WR",
-      "team": "DAL",
-      "status": "Active"
-    },
-    {
       "id": "11421",
       "name": "Ryan Miller",
       "position": "WR",
@@ -5449,9 +5449,9 @@
     "11637",
     "11646",
     "1166",
+    "11783",
     "11792",
     "12185",
-    "12469",
     "12474",
     "12481",
     "12489",
@@ -5471,6 +5471,7 @@
     "12529",
     "12530",
     "12533",
+    "12534",
     "12545",
     "12711",
     "13269",
@@ -5493,7 +5494,6 @@
     "2133",
     "2216",
     "2449",
-    "2505",
     "2747",
     "3163",
     "3198",
@@ -5510,7 +5510,6 @@
     "4199",
     "421",
     "4217",
-    "4227",
     "4866",
     "4881",
     "4983",
@@ -5576,6 +5575,7 @@
     "8155",
     "8167",
     "8183",
+    "8210",
     "8228",
     "8259",
     "8408",
@@ -5597,6 +5597,7 @@
     "9997",
     "BAL",
     "BUF",
+    "CHI",
     "DET",
     "GB",
     "HOU",
@@ -5605,7 +5606,6 @@
     "LAC",
     "LV",
     "MIN",
-    "NYG",
     "PIT",
     "SEA"
   ],
@@ -6121,13 +6121,6 @@
           "status": "Active"
         },
         {
-          "id": "12469",
-          "name": "Dylan Sampson",
-          "position": "RB",
-          "team": "CLE",
-          "status": "Active"
-        },
-        {
           "id": "12501",
           "name": "Matthew Golden",
           "position": "WR",
@@ -6139,6 +6132,13 @@
           "name": "Tyler Warren",
           "position": "TE",
           "team": "IND",
+          "status": "Active"
+        },
+        {
+          "id": "12534",
+          "name": "Kyle Monangai",
+          "position": "RB",
+          "team": "CHI",
           "status": "Active"
         },
         {
@@ -6212,10 +6212,10 @@
           "status": "Active"
         },
         {
-          "id": "NYG",
-          "name": "NYG",
+          "id": "CHI",
+          "name": "CHI",
           "position": "DEF",
-          "team": "NYG",
+          "team": "CHI",
           "status": ""
         }
       ]
@@ -6611,6 +6611,13 @@
           "status": "Active"
         },
         {
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "position": "WR",
+          "team": "DAL",
+          "status": "Active"
+        },
+        {
           "id": "12512",
           "name": "Quinshon Judkins",
           "position": "RB",
@@ -6632,24 +6639,10 @@
           "status": "Active"
         },
         {
-          "id": "2505",
-          "name": "Darren Waller",
-          "position": "TE",
-          "team": "CAR",
-          "status": "Questionable"
-        },
-        {
           "id": "3214",
           "name": "Hunter Henry",
           "position": "TE",
           "team": "NE",
-          "status": "Active"
-        },
-        {
-          "id": "4227",
-          "name": "Harrison Butker",
-          "position": "K",
-          "team": "KC",
           "status": "Active"
         },
         {
@@ -6678,6 +6671,13 @@
           "name": "Brock Purdy",
           "position": "QB",
           "team": "SF",
+          "status": "Active"
+        },
+        {
+          "id": "8210",
+          "name": "Chig Okonkwo",
+          "position": "TE",
+          "team": "WAS",
           "status": "Active"
         },
         {
