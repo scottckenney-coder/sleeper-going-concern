@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-19T13:02:35+00:00",
+  "updated_at_utc": "2026-11-19T21:30:43+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -2496,6 +2496,13 @@
       "status": "Active"
     },
     {
+      "id": "13580",
+      "name": "Carsen Ryan",
+      "position": "TE",
+      "team": "CLE",
+      "status": "Active"
+    },
+    {
       "id": "13407",
       "name": "Carson Towt",
       "position": "TE",
@@ -4274,13 +4281,6 @@
       "status": "Active"
     },
     {
-      "id": "6920",
-      "name": "Isaiah Hodgins",
-      "position": "WR",
-      "team": "PIT",
-      "status": "Active"
-    },
-    {
       "id": "13074",
       "name": "Isaiah Neyor",
       "position": "WR",
@@ -4816,7 +4816,7 @@
       "id": "11210",
       "name": "Malik Heath",
       "position": "WR",
-      "team": "ATL",
+      "team": "WAS",
       "status": "Active"
     },
     {
