@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-18T21:55:28+00:00",
+  "updated_at_utc": "2026-11-19T03:25:50+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -1100,7 +1100,7 @@
       "name": "Mac Jones",
       "position": "QB",
       "team": "SF",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "8161",
@@ -1485,7 +1485,7 @@
       "name": "CJ Donaldson",
       "position": "RB",
       "team": "NO",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "11186",
@@ -2507,7 +2507,7 @@
       "name": "Charlie Kolar",
       "position": "TE",
       "team": "LAC",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "7075",
@@ -2864,7 +2864,7 @@
       "name": "Jackson Hawes",
       "position": "TE",
       "team": "BUF",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "12938",
@@ -2899,7 +2899,7 @@
       "name": "Jared Wiley",
       "position": "TE",
       "team": "KC",
-      "status": "Out"
+      "status": "IR"
     },
     {
       "id": "13422",
@@ -3784,6 +3784,13 @@
       "status": "Active"
     },
     {
+      "id": "11748",
+      "name": "Bub Means",
+      "position": "WR",
+      "team": "ARI",
+      "status": "Active"
+    },
+    {
       "id": "13270",
       "name": "CJ Daniels",
       "position": "WR",
@@ -3851,6 +3858,13 @@
       "name": "Chandler Brayboy",
       "position": "WR",
       "team": "NE",
+      "status": "Active"
+    },
+    {
+      "id": "10228",
+      "name": "Charlie Jones",
+      "position": "WR",
+      "team": "NYG",
       "status": "Active"
     },
     {
@@ -4103,7 +4117,7 @@
       "name": "Dont'e Thornton Jr.",
       "position": "WR",
       "team": "LV",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12946",
@@ -6293,7 +6307,7 @@
           "name": "Matt Gay",
           "position": "K",
           "team": "LV",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "6786",
@@ -6419,7 +6433,7 @@
           "name": "Jauan Jennings",
           "position": "WR",
           "team": "MIN",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "8126",
