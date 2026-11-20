@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-19T21:30:43+00:00",
+  "updated_at_utc": "2026-11-20T03:12:43+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -417,13 +417,6 @@
       "status": ""
     },
     {
-      "id": "DEN",
-      "name": "DEN",
-      "position": "DEF",
-      "team": "DEN",
-      "status": ""
-    },
-    {
       "id": "IND",
       "name": "IND",
       "position": "DEF",
@@ -778,7 +771,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "3161",
@@ -1191,7 +1184,7 @@
       "name": "Riley Leonard",
       "position": "QB",
       "team": "IND",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "4943",
@@ -1870,7 +1863,7 @@
       "name": "Jordan James",
       "position": "RB",
       "team": "SF",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "6167",
@@ -1905,6 +1898,13 @@
       "name": "Julius Chestnut",
       "position": "RB",
       "team": "TEN",
+      "status": "Active"
+    },
+    {
+      "id": "13414",
+      "name": "Kaelon Black",
+      "position": "RB",
+      "team": "SF",
       "status": "Active"
     },
     {
@@ -2563,7 +2563,7 @@
       "name": "Colson Yankoff",
       "position": "TE",
       "team": "WAS",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13577",
@@ -2895,6 +2895,13 @@
       "status": "Active"
     },
     {
+      "id": "8110",
+      "name": "Jake Ferguson",
+      "position": "TE",
+      "team": "DAL",
+      "status": "Out"
+    },
+    {
       "id": "8698",
       "name": "Jake Tonges",
       "position": "TE",
@@ -3028,6 +3035,13 @@
       "status": "Active"
     },
     {
+      "id": "7050",
+      "name": "Josiah Deguara",
+      "position": "TE",
+      "team": "LAC",
+      "status": "Active"
+    },
+    {
       "id": "11371",
       "name": "Julian Hill",
       "position": "TE",
@@ -3158,14 +3172,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "status": "Active"
-    },
-    {
-      "id": "5012",
-      "name": "Mark Andrews",
-      "position": "TE",
-      "team": "BAL",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "13013",
@@ -3641,7 +3648,7 @@
       "name": "Anthony Gould",
       "position": "WR",
       "team": "IND",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13582",
@@ -5485,7 +5492,6 @@
     "13337",
     "13345",
     "13346",
-    "13414",
     "13424",
     "13968",
     "1466",
@@ -5515,6 +5521,7 @@
     "4983",
     "4984",
     "4993",
+    "5012",
     "5022",
     "5045",
     "5844",
@@ -5555,7 +5562,6 @@
     "7600",
     "7611",
     "7839",
-    "8110",
     "8112",
     "8121",
     "8126",
@@ -5598,6 +5604,7 @@
     "BAL",
     "BUF",
     "CHI",
+    "DEN",
     "DET",
     "GB",
     "HOU",
@@ -6254,13 +6261,6 @@
           "status": "Active"
         },
         {
-          "id": "13414",
-          "name": "Kaelon Black",
-          "position": "RB",
-          "team": "SF",
-          "status": "Active"
-        },
-        {
           "id": "2216",
           "name": "Mike Evans",
           "position": "WR",
@@ -6336,6 +6336,13 @@
           "position": "QB",
           "team": "PIT",
           "status": "Active"
+        },
+        {
+          "id": "DEN",
+          "name": "DEN",
+          "position": "DEF",
+          "team": "DEN",
+          "status": ""
         },
         {
           "id": "SEA",
@@ -6916,7 +6923,7 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "7543",
@@ -7017,6 +7024,13 @@
           "status": "Questionable"
         },
         {
+          "id": "5012",
+          "name": "Mark Andrews",
+          "position": "TE",
+          "team": "BAL",
+          "status": "Active"
+        },
+        {
           "id": "5850",
           "name": "Josh Jacobs",
           "position": "RB",
@@ -7036,13 +7050,6 @@
           "position": "RB",
           "team": "CHI",
           "status": "Active"
-        },
-        {
-          "id": "8110",
-          "name": "Jake Ferguson",
-          "position": "TE",
-          "team": "DAL",
-          "status": "Out"
         },
         {
           "id": "9221",
