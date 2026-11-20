@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-20T11:38:15+00:00",
+  "updated_at_utc": "2026-11-20T20:15:51+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -135,7 +135,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 5
     },
     "starters": [
@@ -186,7 +186,7 @@
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "status": "Questionable"
+        "status": "Active"
       },
       {
         "id": "11635",
@@ -223,7 +223,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "status": "Questionable"
+        "status": "Out"
       },
       {
         "id": "13424",
@@ -291,14 +291,14 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "status": "Questionable"
+        "status": "Out"
       },
       {
         "id": "13281",
         "name": "Jordyn Tyson",
         "position": "WR",
         "team": "NO",
-        "status": "Questionable"
+        "status": "Active"
       },
       {
         "id": "13424",
@@ -470,13 +470,6 @@
       "name": "PHI",
       "position": "DEF",
       "team": "PHI",
-      "status": ""
-    },
-    {
-      "id": "SF",
-      "name": "SF",
-      "position": "DEF",
-      "team": "SF",
       "status": ""
     },
     {
@@ -1699,7 +1692,7 @@
     },
     {
       "id": "13603",
-      "name": "Gregory Desrosiers",
+      "name": "Gregory Desrosiers Jr.",
       "position": "RB",
       "team": "NYG",
       "status": "Active"
@@ -2088,13 +2081,6 @@
       "position": "RB",
       "team": "NYG",
       "status": "Active"
-    },
-    {
-      "id": "8116",
-      "name": "Pierre Strong Jr.",
-      "position": "RB",
-      "team": "GB",
-      "status": "Out"
     },
     {
       "id": "12472",
@@ -2829,7 +2815,7 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "5957",
@@ -3749,13 +3735,6 @@
       "status": "Active"
     },
     {
-      "id": "7865",
-      "name": "Brandon Smith",
-      "position": "WR",
-      "team": "PIT",
-      "status": "Active"
-    },
-    {
       "id": "5121",
       "name": "Braxton Berrios",
       "position": "WR",
@@ -4299,7 +4278,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "13770",
@@ -4509,7 +4488,7 @@
       "name": "Jeshaun Jones",
       "position": "WR",
       "team": "MIN",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13173",
@@ -5419,7 +5398,7 @@
       "name": "Zavion Thomas",
       "position": "WR",
       "team": "CHI",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "4080",
@@ -5535,7 +5514,6 @@
     "5967",
     "5995",
     "6083",
-    "650",
     "6650",
     "6770",
     "6786",
@@ -5614,7 +5592,8 @@
     "LV",
     "MIN",
     "PIT",
-    "SEA"
+    "SEA",
+    "SF"
   ],
   "recent_team_transactions": [],
   "league_teams": [
@@ -5628,7 +5607,7 @@
         "ties": 0,
         "points_for": 1508.08
       },
-      "waiver_position": 9,
+      "waiver_position": 8,
       "players": [
         {
           "id": "12489",
@@ -5670,7 +5649,7 @@
           "name": "T.J. Hockenson",
           "position": "TE",
           "team": "MIN",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "5967",
@@ -5705,7 +5684,7 @@
           "name": "Isaiah Likely",
           "position": "TE",
           "team": "NYG",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "8132",
@@ -5873,7 +5852,7 @@
         "ties": 0,
         "points_for": 1110.56
       },
-      "waiver_position": 5,
+      "waiver_position": 4,
       "players": [
         {
           "id": "10219",
@@ -5992,7 +5971,7 @@
         "ties": 0,
         "points_for": 1168.94
       },
-      "waiver_position": 6,
+      "waiver_position": 5,
       "players": [
         {
           "id": "10213",
@@ -6237,7 +6216,7 @@
         "ties": 0,
         "points_for": 1179.78
       },
-      "waiver_position": 11,
+      "waiver_position": 10,
       "players": [
         {
           "id": "12474",
@@ -6482,7 +6461,7 @@
         "ties": 0,
         "points_for": 1267.02
       },
-      "waiver_position": 12,
+      "waiver_position": 11,
       "players": [
         {
           "id": "11576",
@@ -6517,14 +6496,14 @@
           "name": "Omar Cooper Jr.",
           "position": "WR",
           "team": "NYJ",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "13281",
           "name": "Jordyn Tyson",
           "position": "WR",
           "team": "NO",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "13424",
@@ -6608,7 +6587,7 @@
         "ties": 0,
         "points_for": 1222.14
       },
-      "waiver_position": 10,
+      "waiver_position": 9,
       "players": [
         {
           "id": "11584",
@@ -6727,7 +6706,7 @@
         "ties": 0,
         "points_for": 1396.06
       },
-      "waiver_position": 4,
+      "waiver_position": 12,
       "players": [
         {
           "id": "10232",
@@ -6741,7 +6720,7 @@
           "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF",
-          "status": "Questionable"
+          "status": "Doubtful"
         },
         {
           "id": "11610",
@@ -6776,13 +6755,6 @@
           "name": "Justice Hill",
           "position": "RB",
           "team": "BAL",
-          "status": "Active"
-        },
-        {
-          "id": "650",
-          "name": "Nick Folk",
-          "position": "K",
-          "team": "",
           "status": "Active"
         },
         {
@@ -6840,6 +6812,13 @@
           "position": "DEF",
           "team": "GB",
           "status": ""
+        },
+        {
+          "id": "SF",
+          "name": "SF",
+          "position": "DEF",
+          "team": "SF",
+          "status": ""
         }
       ]
     },
@@ -6853,7 +6832,7 @@
         "ties": 0,
         "points_for": 1204.16
       },
-      "waiver_position": 8,
+      "waiver_position": 7,
       "players": [
         {
           "id": "11533",
@@ -6972,7 +6951,7 @@
         "ties": 0,
         "points_for": 1182.72
       },
-      "waiver_position": 7,
+      "waiver_position": 6,
       "players": [
         {
           "id": "10229",
