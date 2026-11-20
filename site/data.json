@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-20T03:12:43+00:00",
+  "updated_at_utc": "2026-11-20T11:38:15+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -230,7 +230,7 @@
         "name": "Seth McGowan",
         "position": "RB",
         "team": "IND",
-        "status": "Active"
+        "status": "Out"
       },
       {
         "id": "1479",
@@ -305,7 +305,7 @@
         "name": "Seth McGowan",
         "position": "RB",
         "team": "IND",
-        "status": "Active"
+        "status": "Out"
       },
       {
         "id": "1479",
@@ -4663,7 +4663,7 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "12971",
@@ -6531,7 +6531,7 @@
           "name": "Seth McGowan",
           "position": "RB",
           "team": "IND",
-          "status": "Active"
+          "status": "Out"
         },
         {
           "id": "1479",
