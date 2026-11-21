@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-20T20:15:51+00:00",
+  "updated_at_utc": "2026-11-21T01:33:55+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -172,7 +172,7 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAX",
-        "status": "Questionable"
+        "status": "Active"
       },
       {
         "id": "4217",
@@ -326,7 +326,7 @@
         "name": "Jakobi Meyers",
         "position": "WR",
         "team": "JAX",
-        "status": "Questionable"
+        "status": "Active"
       },
       {
         "id": "6801",
@@ -883,7 +883,7 @@
       "name": "Geno Smith",
       "position": "QB",
       "team": "NYJ",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12705",
@@ -1894,6 +1894,13 @@
       "status": "Active"
     },
     {
+      "id": "5995",
+      "name": "Justice Hill",
+      "position": "RB",
+      "team": "BAL",
+      "status": "Active"
+    },
+    {
       "id": "13414",
       "name": "Kaelon Black",
       "position": "RB",
@@ -1989,7 +1996,7 @@
       "name": "LeQuint Allen Jr.",
       "position": "RB",
       "team": "JAX",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "9510",
@@ -2101,7 +2108,7 @@
       "name": "Ray Davis",
       "position": "RB",
       "team": "BUF",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "7204",
@@ -2815,7 +2822,7 @@
       "name": "Ian Thomas",
       "position": "TE",
       "team": "LV",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "5957",
@@ -3746,7 +3753,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "status": "Questionable"
+      "status": "Doubtful"
     },
     {
       "id": "13011",
@@ -3760,7 +3767,7 @@
       "name": "Britain Covey",
       "position": "WR",
       "team": "PHI",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13420",
@@ -3809,7 +3816,7 @@
       "name": "Caleb Douglas",
       "position": "WR",
       "team": "MIA",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "5223",
@@ -3879,7 +3886,7 @@
       "name": "Chris Bell",
       "position": "WR",
       "team": "MIA",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "7521",
@@ -4131,7 +4138,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "7587",
@@ -4159,13 +4166,6 @@
       "name": "Eldridge Massington",
       "position": "WR",
       "team": "NO",
-      "status": "Active"
-    },
-    {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "position": "WR",
-      "team": "TEN",
       "status": "Active"
     },
     {
@@ -4243,7 +4243,7 @@
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
       "team": "CAR",
-      "status": "Out"
+      "status": "Questionable"
     },
     {
       "id": "8861",
@@ -4432,7 +4432,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "11311",
@@ -4523,7 +4523,7 @@
       "name": "Jonathan Mingo",
       "position": "WR",
       "team": "DAL",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "13325",
@@ -5251,7 +5251,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "11627",
@@ -5444,6 +5444,7 @@
     "12490",
     "12493",
     "12495",
+    "12499",
     "12501",
     "12506",
     "12507",
@@ -5512,7 +5513,6 @@
     "5892",
     "5947",
     "5967",
-    "5995",
     "6083",
     "6650",
     "6770",
@@ -5684,7 +5684,7 @@
           "name": "Isaiah Likely",
           "position": "TE",
           "team": "NYG",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "8132",
@@ -5831,7 +5831,7 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "DET",
@@ -5859,7 +5859,7 @@
           "name": "Chris Rodriguez Jr.",
           "position": "RB",
           "team": "JAX",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "11539",
@@ -5887,7 +5887,7 @@
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "12533",
@@ -6531,7 +6531,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "6801",
@@ -6730,6 +6730,13 @@
           "status": "Active"
         },
         {
+          "id": "12499",
+          "name": "Elic Ayomanor",
+          "position": "WR",
+          "team": "TEN",
+          "status": "Active"
+        },
+        {
           "id": "13337",
           "name": "Emmett Johnson",
           "position": "RB",
@@ -6751,13 +6758,6 @@
           "status": "Active"
         },
         {
-          "id": "5995",
-          "name": "Justice Hill",
-          "position": "RB",
-          "team": "BAL",
-          "status": "Active"
-        },
-        {
           "id": "6804",
           "name": "Jordan Love",
           "position": "QB",
@@ -6776,7 +6776,7 @@
           "name": "Jaylen Waddle",
           "position": "WR",
           "team": "DEN",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "8144",
@@ -6790,7 +6790,7 @@
           "name": "Kenneth Walker III",
           "position": "RB",
           "team": "KC",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "9484",
