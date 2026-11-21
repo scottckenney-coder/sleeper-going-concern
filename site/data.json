@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-21T09:47:38+00:00",
+  "updated_at_utc": "2026-11-21T17:30:09+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -792,13 +792,6 @@
       "name": "DJ Uiagalelei",
       "position": "QB",
       "team": "LAC",
-      "status": "Active"
-    },
-    {
-      "id": "5870",
-      "name": "Daniel Jones",
-      "position": "QB",
-      "team": "IND",
       "status": "Active"
     },
     {
@@ -4225,13 +4218,6 @@
       "status": "Active"
     },
     {
-      "id": "7559",
-      "name": "Ihmir Smith-Marsette",
-      "position": "WR",
-      "team": "CAR",
-      "status": "Questionable"
-    },
-    {
       "id": "8861",
       "name": "Irvin Charles",
       "position": "WR",
@@ -5373,6 +5359,13 @@
       "status": "Active"
     },
     {
+      "id": "11624",
+      "name": "Xavier Worthy",
+      "position": "WR",
+      "team": "KC",
+      "status": "Active"
+    },
+    {
       "id": "13320",
       "name": "Zachariah Branch",
       "position": "WR",
@@ -5413,7 +5406,6 @@
     "11604",
     "11610",
     "11620",
-    "11624",
     "11625",
     "11631",
     "11632",
@@ -5995,13 +5987,6 @@
           "name": "Tre Tucker",
           "position": "WR",
           "team": "LV",
-          "status": "Active"
-        },
-        {
-          "id": "11624",
-          "name": "Xavier Worthy",
-          "position": "WR",
-          "team": "KC",
           "status": "Active"
         },
         {
