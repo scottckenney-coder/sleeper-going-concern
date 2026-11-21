@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-21T17:30:09+00:00",
+  "updated_at_utc": "2026-11-21T23:14:14+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -750,7 +750,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "3161",
@@ -2069,6 +2069,13 @@
       "status": "Active"
     },
     {
+      "id": "8116",
+      "name": "Pierre Strong Jr.",
+      "position": "RB",
+      "team": "GB",
+      "status": "Active"
+    },
+    {
       "id": "12472",
       "name": "Raheim Sanders",
       "position": "RB",
@@ -2255,7 +2262,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "status": "Questionable"
+      "status": "IR"
     },
     {
       "id": "8208",
@@ -2290,7 +2297,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "status": "IR"
+      "status": "Questionable"
     },
     {
       "id": "8139",
@@ -4117,7 +4124,7 @@
       "name": "Dontayvion Wicks",
       "position": "WR",
       "team": "PHI",
-      "status": "Out"
+      "status": "IR"
     },
     {
       "id": "7587",
@@ -5020,7 +5027,7 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "status": "IR"
+      "status": "Questionable"
     },
     {
       "id": "10221",
@@ -5223,7 +5230,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "11627",
@@ -6197,7 +6204,7 @@
           "name": "Kyren Williams",
           "position": "RB",
           "team": "LAR",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "8228",
