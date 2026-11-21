@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-21T01:33:55+00:00",
+  "updated_at_utc": "2026-11-21T09:47:38+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -168,24 +168,10 @@
         "status": "Active"
       },
       {
-        "id": "5947",
-        "name": "Jakobi Meyers",
-        "position": "WR",
-        "team": "JAX",
-        "status": "Active"
-      },
-      {
         "id": "4217",
         "name": "George Kittle",
         "position": "TE",
         "team": "SF",
-        "status": "Active"
-      },
-      {
-        "id": "13281",
-        "name": "Jordyn Tyson",
-        "position": "WR",
-        "team": "NO",
         "status": "Active"
       },
       {
@@ -245,6 +231,13 @@
         "position": "RB",
         "team": "NE",
         "status": "Active"
+      },
+      {
+        "id": "9224",
+        "name": "Chase Brown",
+        "position": "RB",
+        "team": "CIN",
+        "status": "Active"
       }
     ],
     "reserve": [
@@ -294,13 +287,6 @@
         "status": "Out"
       },
       {
-        "id": "13281",
-        "name": "Jordyn Tyson",
-        "position": "WR",
-        "team": "NO",
-        "status": "Active"
-      },
-      {
         "id": "13424",
         "name": "Seth McGowan",
         "position": "RB",
@@ -319,13 +305,6 @@
         "name": "George Kittle",
         "position": "TE",
         "team": "SF",
-        "status": "Active"
-      },
-      {
-        "id": "5947",
-        "name": "Jakobi Meyers",
-        "position": "WR",
-        "team": "JAX",
         "status": "Active"
       },
       {
@@ -354,6 +333,13 @@
         "name": "James Cook III",
         "position": "RB",
         "team": "BUF",
+        "status": "Active"
+      },
+      {
+        "id": "9224",
+        "name": "Chase Brown",
+        "position": "RB",
+        "team": "CIN",
         "status": "Active"
       },
       {
@@ -5595,7 +5581,38 @@
     "SEA",
     "SF"
   ],
-  "recent_team_transactions": [],
+  "recent_team_transactions": [
+    {
+      "type": "trade",
+      "status": "complete",
+      "created": 1795009665055,
+      "adds": [
+        {
+          "id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
+          "status": "Active"
+        }
+      ],
+      "drops": [
+        {
+          "id": "13281",
+          "name": "Jordyn Tyson",
+          "position": "WR",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX",
+          "status": "Active"
+        }
+      ]
+    }
+  ],
   "league_teams": [
     {
       "roster_id": 1,
@@ -6002,6 +6019,13 @@
           "status": "IR"
         },
         {
+          "id": "13281",
+          "name": "Jordyn Tyson",
+          "position": "WR",
+          "team": "NO",
+          "status": "Active"
+        },
+        {
           "id": "13968",
           "name": "Drew Stevens",
           "position": "K",
@@ -6013,6 +6037,13 @@
           "name": "Mike Gesicki",
           "position": "TE",
           "team": "CIN",
+          "status": "Active"
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "position": "WR",
+          "team": "JAX",
           "status": "Active"
         },
         {
@@ -6048,13 +6079,6 @@
           "name": "Breece Hall",
           "position": "RB",
           "team": "NYJ",
-          "status": "Active"
-        },
-        {
-          "id": "9224",
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN",
           "status": "Active"
         },
         {
@@ -6499,13 +6523,6 @@
           "status": "Out"
         },
         {
-          "id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active"
-        },
-        {
           "id": "13424",
           "name": "Seth McGowan",
           "position": "RB",
@@ -6524,13 +6541,6 @@
           "name": "George Kittle",
           "position": "TE",
           "team": "SF",
-          "status": "Active"
-        },
-        {
-          "id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX",
           "status": "Active"
         },
         {
@@ -6559,6 +6569,13 @@
           "name": "James Cook III",
           "position": "RB",
           "team": "BUF",
+          "status": "Active"
+        },
+        {
+          "id": "9224",
+          "name": "Chase Brown",
+          "position": "RB",
+          "team": "CIN",
           "status": "Active"
         },
         {
