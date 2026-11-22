@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-22T11:21:29+00:00",
+  "updated_at_utc": "2026-11-22T19:37:14+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -154,10 +154,10 @@
         "status": "Active"
       },
       {
-        "id": "11576",
-        "name": "Braelon Allen",
+        "id": "9224",
+        "name": "Chase Brown",
         "position": "RB",
-        "team": "NYJ",
+        "team": "CIN",
         "status": "Active"
       },
       {
@@ -168,10 +168,24 @@
         "status": "Active"
       },
       {
+        "id": "13274",
+        "name": "Germie Bernard",
+        "position": "WR",
+        "team": "PIT",
+        "status": "Active"
+      },
+      {
         "id": "4217",
         "name": "George Kittle",
         "position": "TE",
         "team": "SF",
+        "status": "Active"
+      },
+      {
+        "id": "11576",
+        "name": "Braelon Allen",
+        "position": "RB",
+        "team": "NYJ",
         "status": "Active"
       },
       {
@@ -198,13 +212,6 @@
     ],
     "bench": [
       {
-        "id": "13274",
-        "name": "Germie Bernard",
-        "position": "WR",
-        "team": "PIT",
-        "status": "Active"
-      },
-      {
         "id": "13276",
         "name": "Omar Cooper Jr.",
         "position": "WR",
@@ -230,13 +237,6 @@
         "name": "Rhamondre Stevenson",
         "position": "RB",
         "team": "NE",
-        "status": "Active"
-      },
-      {
-        "id": "9224",
-        "name": "Chase Brown",
-        "position": "RB",
-        "team": "CIN",
         "status": "Active"
       }
     ],
@@ -687,7 +687,7 @@
       "name": "Baker Mayfield",
       "position": "QB",
       "team": "TB",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13295",
@@ -764,7 +764,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "6147",
@@ -778,7 +778,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "4574",
@@ -820,7 +820,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "5854",
@@ -834,7 +834,7 @@
       "name": "Easton Stick",
       "position": "QB",
       "team": "TB",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "6011",
@@ -855,7 +855,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "1373",
@@ -876,7 +876,7 @@
       "name": "Haynes King",
       "position": "QB",
       "team": "CAR",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "9998",
@@ -1023,7 +1023,7 @@
       "name": "Kedon Slovis",
       "position": "QB",
       "team": "BAL",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "8160",
@@ -1303,7 +1303,7 @@
       "name": "Will Howard",
       "position": "QB",
       "team": "PIT",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "9999",
@@ -1324,21 +1324,21 @@
       "name": "Zach Wilson",
       "position": "QB",
       "team": "NO",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "6828",
       "name": "AJ Dillon",
       "position": "RB",
       "team": "CAR",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "13302",
       "name": "Adam Randall",
       "position": "RB",
       "team": "BAL",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "7093",
@@ -1394,7 +1394,7 @@
       "name": "Audric Estime",
       "position": "RB",
       "team": "NO",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "4663",
@@ -1618,7 +1618,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "4263",
@@ -2045,7 +2045,7 @@
       "name": "Nicholas Singleton",
       "position": "RB",
       "team": "TEN",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "13437",
@@ -2143,7 +2143,7 @@
       "name": "Roschon Johnson",
       "position": "RB",
       "team": "CHI",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "6918",
@@ -2178,7 +2178,7 @@
       "name": "Sione Vaki",
       "position": "RB",
       "team": "DET",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12543",
@@ -2297,7 +2297,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "8139",
@@ -2591,7 +2591,7 @@
       "name": "Darren Waller",
       "position": "TE",
       "team": "CAR",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12357",
@@ -2822,7 +2822,7 @@
       "name": "Ja'Tavion Sanders",
       "position": "TE",
       "team": "CAR",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "1706",
@@ -2857,7 +2857,7 @@
       "name": "Jackson Hawes",
       "position": "TE",
       "team": "BUF",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12938",
@@ -3032,7 +3032,7 @@
       "name": "Justin Joly",
       "position": "TE",
       "team": "MIA",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "7002",
@@ -3151,7 +3151,7 @@
       "name": "Luke Schoonmaker",
       "position": "TE",
       "team": "DAL",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13013",
@@ -3508,7 +3508,7 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "11381",
@@ -3704,13 +3704,6 @@
       "name": "Brady Boyd",
       "position": "WR",
       "team": "MIA",
-      "status": "Active"
-    },
-    {
-      "id": "2197",
-      "name": "Brandin Cooks",
-      "position": "WR",
-      "team": "SF",
       "status": "Active"
     },
     {
@@ -4166,7 +4159,7 @@
       "name": "Elijah Sarratt",
       "position": "WR",
       "team": "BAL",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "13313",
@@ -4600,7 +4593,7 @@
       "name": "Kaden Wetjen",
       "position": "WR",
       "team": "PIT",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "3634",
@@ -5027,7 +5020,7 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "10221",
@@ -5090,7 +5083,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "8168",
@@ -5384,7 +5377,7 @@
       "name": "Zavion Thomas",
       "position": "WR",
       "team": "CHI",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "4080",
@@ -6729,7 +6722,7 @@
           "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF",
-          "status": "Doubtful"
+          "status": "Out"
         },
         {
           "id": "11610",
@@ -7002,7 +6995,7 @@
           "name": "Carnell Tate",
           "position": "WR",
           "team": "TEN",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "3321",
