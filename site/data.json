@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-23T09:02:08+00:00",
+  "updated_at_utc": "2026-11-23T21:21:22+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -526,7 +526,7 @@
       "name": "Cam Little",
       "position": "K",
       "team": "JAX",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "10955",
@@ -1653,6 +1653,13 @@
       "name": "Emari Demercado",
       "position": "RB",
       "team": "HOU",
+      "status": "Active"
+    },
+    {
+      "id": "10223",
+      "name": "Eric Gray",
+      "position": "RB",
+      "team": "IND",
       "status": "Active"
     },
     {
@@ -5896,14 +5903,14 @@
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "12533",
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS",
-          "status": "IR"
+          "status": "Inactive"
         },
         {
           "id": "13298",
