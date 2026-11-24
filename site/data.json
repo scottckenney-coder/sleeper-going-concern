@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-23T21:21:22+00:00",
+  "updated_at_utc": "2026-11-24T06:00:18+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -40,7 +40,7 @@
       "playoff_type": 0,
       "taxi_slots": 0,
       "sub_start_time_eligibility": 0,
-      "last_scored_leg": 10,
+      "last_scored_leg": 11,
       "daily_waivers_days": 5461,
       "sub_lock_if_starter_active": 0,
       "playoff_week_start": 15,
@@ -125,18 +125,18 @@
     "username": "kenneysc",
     "roster_id": 8,
     "settings": {
-      "fpts": 1267,
-      "fpts_against": 1145,
-      "fpts_against_decimal": 78,
-      "fpts_decimal": 2,
+      "fpts": 1393,
+      "fpts_against": 1223,
+      "fpts_against_decimal": 64,
+      "fpts_decimal": 8,
       "losses": 5,
-      "ppts": 1431,
-      "ppts_decimal": 82,
+      "ppts": 1557,
+      "ppts_decimal": 88,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 11,
-      "wins": 5
+      "wins": 6
     },
     "starters": [
       {
@@ -358,7 +358,7 @@
       }
     ]
   },
-  "week": 11,
+  "week": 12,
   "free_agents": [
     {
       "id": "ARI",
@@ -456,6 +456,13 @@
       "name": "PHI",
       "position": "DEF",
       "team": "PHI",
+      "status": ""
+    },
+    {
+      "id": "SEA",
+      "name": "SEA",
+      "position": "DEF",
+      "team": "SEA",
       "status": ""
     },
     {
@@ -680,7 +687,7 @@
       "name": "Athan Kaliakmanis",
       "position": "QB",
       "team": "WAS",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "4892",
@@ -1247,7 +1254,7 @@
       "name": "Tanner McKee",
       "position": "QB",
       "team": "PHI",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "13306",
@@ -1681,7 +1688,7 @@
       "name": "George Holani",
       "position": "RB",
       "team": "SEA",
-      "status": "Out"
+      "status": "IR"
     },
     {
       "id": "13603",
@@ -2136,7 +2143,7 @@
       "name": "Robert Henry Jr.",
       "position": "RB",
       "team": "WAS",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "13416",
@@ -2311,7 +2318,7 @@
       "name": "Will Shipley",
       "position": "RB",
       "team": "PHI",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "8139",
@@ -2479,7 +2486,7 @@
       "name": "Cam Grandy",
       "position": "TE",
       "team": "CIN",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "10210",
@@ -2997,7 +3004,7 @@
       "name": "Josh Kattus",
       "position": "TE",
       "team": "CIN",
-      "status": "Out"
+      "status": "Questionable"
     },
     {
       "id": "5973",
@@ -5577,51 +5584,19 @@
     "LV",
     "MIN",
     "PIT",
-    "SEA",
     "SF"
   ],
-  "recent_team_transactions": [
-    {
-      "type": "trade",
-      "status": "complete",
-      "created": 1795009665055,
-      "adds": [
-        {
-          "id": "9224",
-          "name": "Chase Brown",
-          "position": "RB",
-          "team": "CIN",
-          "status": "Active"
-        }
-      ],
-      "drops": [
-        {
-          "id": "13281",
-          "name": "Jordyn Tyson",
-          "position": "WR",
-          "team": "NO",
-          "status": "Active"
-        },
-        {
-          "id": "5947",
-          "name": "Jakobi Meyers",
-          "position": "WR",
-          "team": "JAX",
-          "status": "Active"
-        }
-      ]
-    }
-  ],
+  "recent_team_transactions": [],
   "league_teams": [
     {
       "roster_id": 1,
       "owner_id": "483071829951377408",
       "name": "Who Dey Consulting",
       "record": {
-        "wins": 9,
+        "wins": 10,
         "losses": 1,
         "ties": 0,
-        "points_for": 1508.08
+        "points_for": 1629.78
       },
       "waiver_position": 8,
       "players": [
@@ -5744,10 +5719,10 @@
       "owner_id": "1397678261110050816",
       "name": "Jess249",
       "record": {
-        "wins": 4,
+        "wins": 5,
         "losses": 6,
         "ties": 0,
-        "points_for": 1148.99
+        "points_for": 1281.76
       },
       "waiver_position": 1,
       "players": [
@@ -5847,7 +5822,7 @@
           "name": "Rachaad White",
           "position": "RB",
           "team": "WAS",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "DET",
@@ -5864,9 +5839,9 @@
       "name": "WillyPickles",
       "record": {
         "wins": 2,
-        "losses": 8,
+        "losses": 9,
         "ties": 0,
-        "points_for": 1110.56
+        "points_for": 1188.42
       },
       "waiver_position": 4,
       "players": [
@@ -5910,7 +5885,7 @@
           "name": "Jacory Croskey-Merritt",
           "position": "RB",
           "team": "WAS",
-          "status": "Inactive"
+          "status": "Active"
         },
         {
           "id": "13298",
@@ -5982,10 +5957,10 @@
       "owner_id": "1397805758120230912",
       "name": "Twin1",
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 7,
         "ties": 0,
-        "points_for": 1168.94
+        "points_for": 1303.88
       },
       "waiver_position": 5,
       "players": [
@@ -6109,9 +6084,9 @@
       "name": "Veronica\u2019s Victory",
       "record": {
         "wins": 6,
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
-        "points_for": 1349.02
+        "points_for": 1457.98
       },
       "waiver_position": 2,
       "players": [
@@ -6227,10 +6202,10 @@
       "owner_id": "1398437722191884288",
       "name": "Unreconcilable Defenses ",
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 7,
         "ties": 0,
-        "points_for": 1179.78
+        "points_for": 1316.96
       },
       "waiver_position": 10,
       "players": [
@@ -6295,7 +6270,7 @@
           "name": "Dallas Goedert",
           "position": "TE",
           "team": "PHI",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "6083",
@@ -6338,13 +6313,6 @@
           "position": "DEF",
           "team": "DEN",
           "status": ""
-        },
-        {
-          "id": "SEA",
-          "name": "SEA",
-          "position": "DEF",
-          "team": "SEA",
-          "status": ""
         }
       ]
     },
@@ -6354,9 +6322,9 @@
       "name": "Account Me In",
       "record": {
         "wins": 3,
-        "losses": 7,
+        "losses": 8,
         "ties": 0,
-        "points_for": 1098.5
+        "points_for": 1183.66
       },
       "waiver_position": 3,
       "players": [
@@ -6365,7 +6333,7 @@
           "name": "Sam LaPorta",
           "position": "TE",
           "team": "DET",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "11563",
@@ -6472,10 +6440,10 @@
       "owner_id": "1399050648841883648",
       "name": "Going Concern",
       "record": {
-        "wins": 5,
+        "wins": 6,
         "losses": 5,
         "ties": 0,
-        "points_for": 1267.02
+        "points_for": 1393.08
       },
       "waiver_position": 11,
       "players": [
@@ -6592,9 +6560,9 @@
       "name": "Fi-Skol Year",
       "record": {
         "wins": 5,
-        "losses": 5,
+        "losses": 6,
         "ties": 0,
-        "points_for": 1222.14
+        "points_for": 1338.54
       },
       "waiver_position": 9,
       "players": [
@@ -6710,10 +6678,10 @@
       "owner_id": "1266075211967496192",
       "name": "Go Pack Go Kraft \ud83e\uddc0 ",
       "record": {
-        "wins": 8,
+        "wins": 9,
         "losses": 2,
         "ties": 0,
-        "points_for": 1396.06
+        "points_for": 1530.36
       },
       "waiver_position": 12,
       "players": [
@@ -6837,9 +6805,9 @@
       "name": "sunnyDD",
       "record": {
         "wins": 6,
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
-        "points_for": 1204.16
+        "points_for": 1303.4
       },
       "waiver_position": 7,
       "players": [
@@ -6956,9 +6924,9 @@
       "name": "Caboose",
       "record": {
         "wins": 6,
-        "losses": 4,
+        "losses": 5,
         "ties": 0,
-        "points_for": 1182.72
+        "points_for": 1279.22
       },
       "waiver_position": 6,
       "players": [
