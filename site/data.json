@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-24T06:00:18+00:00",
+  "updated_at_utc": "2026-11-24T17:41:21+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -23,7 +23,7 @@
     ],
     "settings": {
       "best_ball": 0,
-      "last_report": 10,
+      "last_report": 11,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -1033,13 +1033,6 @@
       "status": "Active"
     },
     {
-      "id": "11648",
-      "name": "Kedon Slovis",
-      "position": "QB",
-      "team": "BAL",
-      "status": "Out"
-    },
-    {
       "id": "8160",
       "name": "Kenny Pickett",
       "position": "QB",
@@ -1128,13 +1121,6 @@
       "name": "Michael Penix Jr.",
       "position": "QB",
       "team": "ATL",
-      "status": "Active"
-    },
-    {
-      "id": "13310",
-      "name": "Miller Moss",
-      "position": "QB",
-      "team": "CHI",
       "status": "Active"
     },
     {
@@ -1488,13 +1474,6 @@
       "status": "Active"
     },
     {
-      "id": "11963",
-      "name": "Chris Collier",
-      "position": "RB",
-      "team": "LV",
-      "status": "Questionable"
-    },
-    {
       "id": "11644",
       "name": "Cody Schrader",
       "position": "RB",
@@ -1618,13 +1597,6 @@
       "name": "Dylan Sampson",
       "position": "RB",
       "team": "CLE",
-      "status": "Active"
-    },
-    {
-      "id": "13778",
-      "name": "EJ Smith",
-      "position": "RB",
-      "team": "KC",
       "status": "Active"
     },
     {
@@ -3000,13 +2972,6 @@
       "status": "Active"
     },
     {
-      "id": "13312",
-      "name": "Josh Kattus",
-      "position": "TE",
-      "team": "CIN",
-      "status": "Questionable"
-    },
-    {
       "id": "5973",
       "name": "Josh Oliver",
       "position": "TE",
@@ -3719,13 +3684,6 @@
       "position": "WR",
       "team": "MIA",
       "status": "Active"
-    },
-    {
-      "id": "6803",
-      "name": "Brandon Aiyuk",
-      "position": "WR",
-      "team": "SF",
-      "status": "DNR"
     },
     {
       "id": "8756",
