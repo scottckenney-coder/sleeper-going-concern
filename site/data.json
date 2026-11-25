@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-24T17:41:21+00:00",
+  "updated_at_utc": "2026-11-25T02:26:35+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -1197,7 +1197,7 @@
       "id": "8002",
       "name": "Shane Buechele",
       "position": "QB",
-      "team": "BUF",
+      "team": "IND",
       "status": "Active"
     },
     {
@@ -1408,7 +1408,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "status": "Questionable"
+      "status": "IR"
     },
     {
       "id": "7048",
@@ -1674,6 +1674,13 @@
       "name": "Hassan Haskins",
       "position": "RB",
       "team": "CLE",
+      "status": "Active"
+    },
+    {
+      "id": "12036",
+      "name": "Ian Wheeler",
+      "position": "RB",
+      "team": "LAC",
       "status": "Active"
     },
     {
@@ -3357,6 +3364,13 @@
       "status": "Active"
     },
     {
+      "id": "6964",
+      "name": "Sean McKeon",
+      "position": "TE",
+      "team": "IND",
+      "status": "Active"
+    },
+    {
       "id": "13429",
       "name": "Seydou Traore",
       "position": "TE",
@@ -3669,7 +3683,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "8204",
@@ -3688,6 +3702,13 @@
     {
       "id": "8756",
       "name": "Brandon Johnson",
+      "position": "WR",
+      "team": "PIT",
+      "status": "Active"
+    },
+    {
+      "id": "7865",
+      "name": "Brandon Smith",
       "position": "WR",
       "team": "PIT",
       "status": "Active"
@@ -6557,7 +6578,7 @@
           "name": "Denzel Boston",
           "position": "WR",
           "team": "CLE",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "3214",
@@ -6823,7 +6844,7 @@
           "name": "J.K. Dobbins",
           "position": "RB",
           "team": "DEN",
-          "status": "Active"
+          "status": "Out"
         },
         {
           "id": "7525",
