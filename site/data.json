@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-25T22:30:22+00:00",
+  "updated_at_utc": "2026-11-26T05:01:48+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -848,7 +848,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "6185",
@@ -883,13 +883,6 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "status": "Active"
-    },
-    {
-      "id": "1373",
-      "name": "Geno Smith",
-      "position": "QB",
-      "team": "NYJ",
       "status": "Active"
     },
     {
@@ -953,7 +946,7 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "7262",
@@ -1177,7 +1170,7 @@
       "name": "Sam Darnold",
       "position": "QB",
       "team": "SEA",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "7583",
@@ -1289,7 +1282,7 @@
       "name": "Ty Simpson",
       "position": "QB",
       "team": "LAR",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "7083",
@@ -2101,7 +2094,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "13433",
@@ -2388,7 +2381,7 @@
       "name": "Blake Whiteheart",
       "position": "TE",
       "team": "CLE",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "10224",
@@ -2612,14 +2605,14 @@
       "name": "David Njoku",
       "position": "TE",
       "team": "LAC",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "10214",
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "5906",
@@ -3256,7 +3249,7 @@
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "8523",
@@ -3690,7 +3683,7 @@
       "name": "Bo Melton",
       "position": "WR",
       "team": "GB",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13658",
@@ -3970,7 +3963,7 @@
       "name": "Dareke Young",
       "position": "WR",
       "team": "LV",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13150",
@@ -4537,7 +4530,7 @@
       "name": "Jordan Watkins",
       "position": "WR",
       "team": "SF",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "11623",
@@ -4894,7 +4887,7 @@
       "name": "Myles Price",
       "position": "WR",
       "team": "MIN",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "13963",
@@ -5013,7 +5006,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "13297",
@@ -5048,6 +5041,13 @@
       "name": "Ronnie Bell",
       "position": "WR",
       "team": "ARI",
+      "status": "Active"
+    },
+    {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "position": "WR",
+      "team": "DAL",
       "status": "Active"
     },
     {
@@ -5111,7 +5111,7 @@
       "name": "Skyy Moore",
       "position": "WR",
       "team": "GB",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12756",
@@ -5132,7 +5132,7 @@
       "name": "Tai Felton",
       "position": "WR",
       "team": "MIN",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "9502",
@@ -5237,7 +5237,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "11627",
@@ -5428,7 +5428,6 @@
     "11637",
     "11646",
     "1166",
-    "11783",
     "11792",
     "12185",
     "12474",
@@ -5466,6 +5465,7 @@
     "13345",
     "13346",
     "13414",
+    "1373",
     "13968",
     "1466",
     "1479",
@@ -6139,7 +6139,7 @@
           "name": "Tyler Higbee",
           "position": "TE",
           "team": "LAR",
-          "status": "Active"
+          "status": "Out"
         },
         {
           "id": "3451",
@@ -6426,14 +6426,14 @@
           "name": "Christian Watson",
           "position": "WR",
           "team": "GB",
-          "status": "Active"
+          "status": "Out"
         },
         {
           "id": "9997",
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "BAL",
@@ -6590,13 +6590,6 @@
           "status": "Active"
         },
         {
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "position": "WR",
-          "team": "DAL",
-          "status": "Active"
-        },
-        {
           "id": "12512",
           "name": "Quinshon Judkins",
           "position": "RB",
@@ -6616,6 +6609,13 @@
           "position": "WR",
           "team": "CLE",
           "status": "Questionable"
+        },
+        {
+          "id": "1373",
+          "name": "Geno Smith",
+          "position": "QB",
+          "team": "NYJ",
+          "status": "Active"
         },
         {
           "id": "3214",
@@ -6797,7 +6797,7 @@
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
           "team": "SEA",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "GB",
@@ -7007,7 +7007,7 @@
           "name": "Josh Jacobs",
           "position": "RB",
           "team": "GB",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "5859",
