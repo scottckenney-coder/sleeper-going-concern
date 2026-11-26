@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-26T05:01:48+00:00",
+  "updated_at_utc": "2026-11-26T15:12:44+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -396,13 +396,6 @@
       "status": ""
     },
     {
-      "id": "CIN",
-      "name": "CIN",
-      "position": "DEF",
-      "team": "CIN",
-      "status": ""
-    },
-    {
       "id": "CLE",
       "name": "CLE",
       "position": "DEF",
@@ -421,6 +414,13 @@
       "name": "IND",
       "position": "DEF",
       "team": "IND",
+      "status": ""
+    },
+    {
+      "id": "KC",
+      "name": "KC",
+      "position": "DEF",
+      "team": "KC",
       "status": ""
     },
     {
@@ -5576,12 +5576,12 @@
     "BAL",
     "BUF",
     "CHI",
+    "CIN",
     "DEN",
     "DET",
     "GB",
     "HOU",
     "JAX",
-    "KC",
     "LAC",
     "LV",
     "MIN",
@@ -5708,10 +5708,10 @@
           "status": "IR"
         },
         {
-          "id": "KC",
-          "name": "KC",
+          "id": "CIN",
+          "name": "CIN",
           "position": "DEF",
-          "team": "KC",
+          "team": "CIN",
           "status": ""
         }
       ]
