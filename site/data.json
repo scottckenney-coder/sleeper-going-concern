@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-26T15:12:44+00:00",
+  "updated_at_utc": "2026-11-26T23:51:18+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -792,7 +792,7 @@
       "name": "Case Keenum",
       "position": "QB",
       "team": "CHI",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "6147",
@@ -806,7 +806,7 @@
       "name": "Cole Payton",
       "position": "QB",
       "team": "PHI",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "12773",
@@ -1520,13 +1520,6 @@
       "name": "Damon Bankston",
       "position": "RB",
       "team": "MIN",
-      "status": "Active"
-    },
-    {
-      "id": "4718",
-      "name": "Dare Ogunbowale",
-      "position": "RB",
-      "team": "HOU",
       "status": "Active"
     },
     {
@@ -2269,7 +2262,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "status": "IR"
+      "status": "Questionable"
     },
     {
       "id": "8207",
@@ -2381,7 +2374,7 @@
       "name": "Blake Whiteheart",
       "position": "TE",
       "team": "CLE",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "10224",
@@ -2556,7 +2549,7 @@
       "name": "Dalton Schultz",
       "position": "TE",
       "team": "HOU",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "13321",
@@ -2591,7 +2584,7 @@
       "name": "Darren Waller",
       "position": "TE",
       "team": "CAR",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "12357",
@@ -2647,7 +2640,7 @@
       "name": "Drew Ogletree",
       "position": "TE",
       "team": "IND",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "6001",
@@ -2731,7 +2724,7 @@
       "name": "Feleipe Franks",
       "position": "TE",
       "team": "CAR",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "5985",
@@ -2759,7 +2752,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "8172",
@@ -2801,7 +2794,7 @@
       "name": "Hunter Long",
       "position": "TE",
       "team": "ARI",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "4995",
@@ -3214,7 +3207,7 @@
       "name": "Mitchell Evans",
       "position": "TE",
       "team": "CAR",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "4054",
@@ -3249,7 +3242,7 @@
       "name": "Nick Kallerup",
       "position": "TE",
       "team": "SEA",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "8523",
@@ -3501,7 +3494,7 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "11381",
@@ -3676,7 +3669,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "status": "Questionable"
+      "status": "IR"
     },
     {
       "id": "8204",
@@ -4257,7 +4250,7 @@
       "name": "Isaiah Williams",
       "position": "WR",
       "team": "NYJ",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13770",
@@ -4810,7 +4803,7 @@
       "name": "Marvin Harrison Jr.",
       "position": "WR",
       "team": "HOU",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "9494",
@@ -5006,7 +4999,7 @@
       "name": "Rashod Bateman",
       "position": "WR",
       "team": "BAL",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13297",
@@ -5132,7 +5125,7 @@
       "name": "Tai Felton",
       "position": "WR",
       "team": "MIN",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "9502",
@@ -5174,6 +5167,13 @@
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
+      "status": "Active"
+    },
+    {
+      "id": "12860",
+      "name": "Theo Wease Jr.",
+      "position": "WR",
+      "team": "LAC",
       "status": "Active"
     },
     {
@@ -5698,7 +5698,7 @@
           "name": "Parker Washington",
           "position": "WR",
           "team": "JAX",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "9493",
@@ -5761,7 +5761,7 @@
           "name": "Colston Loveland",
           "position": "TE",
           "team": "CHI",
-          "status": "Active"
+          "status": "Out"
         },
         {
           "id": "12527",
@@ -5915,7 +5915,7 @@
           "name": "Michael Pittman Jr.",
           "position": "WR",
           "team": "PIT",
-          "status": "IR"
+          "status": "Active"
         },
         {
           "id": "7564",
@@ -6125,7 +6125,7 @@
           "name": "Stefon Diggs",
           "position": "WR",
           "team": "WAS",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "3163",
@@ -6265,7 +6265,7 @@
           "name": "Saquon Barkley",
           "position": "RB",
           "team": "PHI",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "4881",
@@ -6279,7 +6279,7 @@
           "name": "Dallas Goedert",
           "position": "TE",
           "team": "PHI",
-          "status": "Active"
+          "status": "Out"
         },
         {
           "id": "6083",
@@ -6313,7 +6313,7 @@
           "id": "96",
           "name": "Aaron Rodgers",
           "position": "QB",
-          "team": "PIT",
+          "team": "",
           "status": "Active"
         },
         {
@@ -6433,7 +6433,7 @@
           "name": "Zay Flowers",
           "position": "WR",
           "team": "BAL",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "BAL",
@@ -6839,7 +6839,7 @@
           "name": "Caleb Williams",
           "position": "QB",
           "team": "CHI",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "11604",
@@ -6979,7 +6979,7 @@
           "name": "Harold Fannin Jr.",
           "position": "TE",
           "team": "CLE",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "13279",
