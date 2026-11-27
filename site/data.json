@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-27T08:28:19+00:00",
+  "updated_at_utc": "2026-11-27T18:57:51+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -230,7 +230,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "status": "Questionable"
+        "status": "Out"
       },
       {
         "id": "13414",
@@ -291,7 +291,7 @@
         "name": "Omar Cooper Jr.",
         "position": "WR",
         "team": "NYJ",
-        "status": "Questionable"
+        "status": "Out"
       },
       {
         "id": "13301",
@@ -778,7 +778,7 @@
       "name": "Carson Beck",
       "position": "QB",
       "team": "ARI",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "3161",
@@ -841,7 +841,7 @@
       "name": "Drew Allar",
       "position": "QB",
       "team": "PIT",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "5854",
@@ -1177,7 +1177,7 @@
       "name": "Sam Ehlinger",
       "position": "QB",
       "team": "DEN",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "11558",
@@ -1597,7 +1597,7 @@
       "name": "Eli Heidenreich",
       "position": "RB",
       "team": "PIT",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "4263",
@@ -2262,7 +2262,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "8207",
@@ -2542,7 +2542,7 @@
       "name": "Dallen Bentley",
       "position": "TE",
       "team": "DEN",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "5001",
@@ -3543,7 +3543,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "4490",
@@ -4320,7 +4320,7 @@
       "name": "Jahan Dotson",
       "position": "WR",
       "team": "ATL",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "13079",
@@ -4600,7 +4600,7 @@
       "name": "Kaden Wetjen",
       "position": "WR",
       "team": "PIT",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "3634",
@@ -4719,7 +4719,7 @@
       "name": "Lil'Jordan Humphrey",
       "position": "WR",
       "team": "DEN",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "11520",
@@ -4775,13 +4775,6 @@
       "name": "Malik Benson",
       "position": "WR",
       "team": "LV",
-      "status": "Active"
-    },
-    {
-      "id": "11210",
-      "name": "Malik Heath",
-      "position": "WR",
-      "team": "WAS",
       "status": "Active"
     },
     {
@@ -5384,7 +5377,7 @@
       "name": "Zachariah Branch",
       "position": "WR",
       "team": "ATL",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "13411",
@@ -5698,7 +5691,7 @@
           "name": "Parker Washington",
           "position": "WR",
           "team": "JAX",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "9493",
@@ -6489,7 +6482,7 @@
           "name": "Omar Cooper Jr.",
           "position": "WR",
           "team": "NYJ",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "13301",
@@ -7014,7 +7007,7 @@
           "name": "A.J. Brown",
           "position": "WR",
           "team": "NE",
-          "status": "Doubtful"
+          "status": "Out"
         },
         {
           "id": "6790",
