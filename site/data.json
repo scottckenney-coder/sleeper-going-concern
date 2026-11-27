@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-26T23:51:18+00:00",
+  "updated_at_utc": "2026-11-27T08:28:19+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -883,7 +883,7 @@
       "name": "Garrett Nussmeier",
       "position": "QB",
       "team": "KC",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "12705",
@@ -3277,7 +3277,7 @@
       "name": "Noah Gray",
       "position": "TE",
       "team": "KC",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13319",
@@ -4376,7 +4376,7 @@
       "name": "Jalen Royals",
       "position": "WR",
       "team": "KC",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "8117",
@@ -5097,7 +5097,7 @@
       "name": "Skyler Bell",
       "position": "WR",
       "team": "BUF",
-      "status": "Active"
+      "status": "Out"
     },
     {
       "id": "8168",
@@ -6713,7 +6713,7 @@
           "name": "Dalton Kincaid",
           "position": "TE",
           "team": "BUF",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "11610",
@@ -6888,7 +6888,7 @@
           "name": "DeVonta Smith",
           "position": "WR",
           "team": "PHI",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "7543",
