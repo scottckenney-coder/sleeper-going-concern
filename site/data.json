@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-28T10:24:58+00:00",
+  "updated_at_utc": "2026-11-28T18:56:02+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -2584,7 +2584,7 @@
       "name": "Darren Waller",
       "position": "TE",
       "team": "CAR",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "12357",
@@ -2605,7 +2605,7 @@
       "name": "Davis Allen",
       "position": "TE",
       "team": "LAR",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "5906",
@@ -2835,7 +2835,7 @@
       "id": "7946",
       "name": "Jack Stoll",
       "position": "TE",
-      "team": "SF",
+      "team": "LAR",
       "status": "Active"
     },
     {
@@ -3207,7 +3207,7 @@
       "name": "Mitchell Evans",
       "position": "TE",
       "team": "CAR",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "4054",
@@ -3494,7 +3494,7 @@
       "name": "Tommy Tremble",
       "position": "TE",
       "team": "CAR",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "11381",
@@ -6230,7 +6230,7 @@
           "name": "Tetairoa McMillan",
           "position": "WR",
           "team": "CAR",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "2216",
