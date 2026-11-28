@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-27T18:57:51+00:00",
+  "updated_at_utc": "2026-11-28T01:58:05+00:00",
   "league": {
     "id": "1397672130383990784",
     "name": "Kettering Health",
@@ -165,7 +165,7 @@
         "name": "Tee Higgins",
         "position": "WR",
         "team": "CIN",
-        "status": "Active"
+        "status": "Questionable"
       },
       {
         "id": "13301",
@@ -326,7 +326,7 @@
         "name": "Tee Higgins",
         "position": "WR",
         "team": "CIN",
-        "status": "Active"
+        "status": "Questionable"
       },
       {
         "id": "7611",
@@ -848,7 +848,7 @@
       "name": "Drew Lock",
       "position": "QB",
       "team": "SEA",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "6185",
@@ -946,7 +946,7 @@
       "name": "Jalen Milroe",
       "position": "QB",
       "team": "SEA",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "7262",
@@ -2395,7 +2395,7 @@
       "name": "Brevin Jordan",
       "position": "TE",
       "team": "HOU",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "11593",
@@ -2549,7 +2549,7 @@
       "name": "Dalton Schultz",
       "position": "TE",
       "team": "HOU",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13321",
@@ -2640,7 +2640,7 @@
       "name": "Drew Ogletree",
       "position": "TE",
       "team": "IND",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "6001",
@@ -3018,7 +3018,7 @@
       "name": "Juwan Johnson",
       "position": "TE",
       "team": "NO",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "8088",
@@ -3270,7 +3270,7 @@
       "name": "Noah Fant",
       "position": "TE",
       "team": "NO",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "7828",
@@ -3725,7 +3725,7 @@
       "name": "Brenen Thompson",
       "position": "WR",
       "team": "LAC",
-      "status": "Questionable"
+      "status": "Doubtful"
     },
     {
       "id": "13011",
@@ -4411,7 +4411,7 @@
       "name": "Jared Wayne",
       "position": "WR",
       "team": "MIA",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "11311",
@@ -4523,7 +4523,7 @@
       "name": "Jordan Watkins",
       "position": "WR",
       "team": "SF",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "11623",
@@ -4621,7 +4621,7 @@
       "name": "Kayshon Boutte",
       "position": "WR",
       "team": "HOU",
-      "status": "Questionable"
+      "status": "Out"
     },
     {
       "id": "12971",
@@ -4873,7 +4873,7 @@
       "name": "Myles Price",
       "position": "WR",
       "team": "MIN",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "13963",
@@ -5160,7 +5160,7 @@
       "name": "Tez Johnson",
       "position": "WR",
       "team": "TB",
-      "status": "Active"
+      "status": "Questionable"
     },
     {
       "id": "12860",
@@ -5230,7 +5230,7 @@
       "name": "Treylon Burks",
       "position": "WR",
       "team": "WAS",
-      "status": "Questionable"
+      "status": "Active"
     },
     {
       "id": "11627",
@@ -5670,7 +5670,7 @@
           "name": "Isaiah Likely",
           "position": "TE",
           "team": "NYG",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "8132",
@@ -5810,7 +5810,7 @@
           "name": "Justin Herbert",
           "position": "QB",
           "team": "LAC",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "8136",
@@ -5873,7 +5873,7 @@
           "name": "Bhayshul Tuten",
           "position": "RB",
           "team": "JAX",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "12533",
@@ -5901,7 +5901,7 @@
           "name": "Kyler Murray",
           "position": "QB",
           "team": "MIN",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "6819",
@@ -6006,7 +6006,7 @@
           "name": "Jakobi Meyers",
           "position": "WR",
           "team": "JAX",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "6813",
@@ -6062,7 +6062,7 @@
           "name": "Keaton Mitchell",
           "position": "RB",
           "team": "LAC",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "JAX",
@@ -6216,7 +6216,7 @@
           "name": "Woody Marks",
           "position": "RB",
           "team": "HOU",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "12519",
@@ -6377,7 +6377,7 @@
           "name": "Derrick Henry",
           "position": "RB",
           "team": "BAL",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "4037",
@@ -6517,7 +6517,7 @@
           "name": "Tee Higgins",
           "position": "WR",
           "team": "CIN",
-          "status": "Active"
+          "status": "Questionable"
         },
         {
           "id": "7611",
@@ -6643,7 +6643,7 @@
           "name": "Brock Purdy",
           "position": "QB",
           "team": "SF",
-          "status": "Questionable"
+          "status": "Out"
         },
         {
           "id": "8210",
@@ -6790,7 +6790,7 @@
           "name": "Jaxon Smith-Njigba",
           "position": "WR",
           "team": "SEA",
-          "status": "Questionable"
+          "status": "Active"
         },
         {
           "id": "GB",
@@ -7035,7 +7035,7 @@
           "name": "Jordan Addison",
           "position": "WR",
           "team": "MIN",
-          "status": "Doubtful"
+          "status": "Out"
         },
         {
           "id": "LV",
